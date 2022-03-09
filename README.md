@@ -5,4 +5,4 @@
 * JavaScript
 * React
 
-📧Contact me: [Telegram](https://t.me/DovydovaDaria), [My website- portfolio](https://dovydova-daria.glitch.me)
+📧Contact me: [Telegram](https://t.me/DovydovaDaria), [my website- portfolio](https://dovydova-daria.glitch.me)
