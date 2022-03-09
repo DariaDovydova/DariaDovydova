@@ -1,4 +1,4 @@
-# Hi there <img src="https://giphy.com/stickers/hello-frog-greetings-IpM4kYGnxqmE02P9rr" width="25px" /> 
+# Hi there <img src="https://giphy.com/embed/IpM4kYGnxqmE02P9rr" width="25px" /> 
 ### My name is Daria and I'm a front- end developer 👩‍💻
 **My tech stack:**
 * HTML/CSS
