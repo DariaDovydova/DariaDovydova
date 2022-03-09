@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif" width="25px" /> 
+# Hi there <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="55px" /> 
 ### My name is Daria and I'm a front- end developer 👩‍💻
 **My tech stack:**
 * HTML/CSS
