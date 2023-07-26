@@ -5,6 +5,5 @@
 * JavaScript
 * React
 * CMS Wordpress
-* привет
 
 📧Contact me: [Telegram](https://t.me/DovydovaDaria), [my website- portfolio](https://dovydova-daria.glitch.me)
