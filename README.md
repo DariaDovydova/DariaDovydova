@@ -8,4 +8,4 @@
 * CMS Wordpress
 
 📧Contact me: [Telegram](https://t.me/DovydovaDaria), [my website- portfolio](https://dovydova-daria.glitch.me)
-![Текст с описанием картинки](https://picsum.photos/800/600)
+
