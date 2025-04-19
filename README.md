@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="105px" /> 
-### My name is Daria and I'm a front- end developer 👩‍💻
+### My name is Daria and I'm a Manual QA Engineer 👩‍💻🐞
 
 **My tech stack:**
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,4 +11,8 @@
 
 📧Contact me: [Telegram](https://t.me/DovydovaDaria), [my website- portfolio](https://dovydova-daria.glitch.me)
 
-
+<h1>Hello</h1>
+<ul>
+  <li>one</li>
+  <li>two</li>
+</ul>
