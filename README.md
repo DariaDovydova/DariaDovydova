@@ -34,5 +34,11 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </div>
 
+---
+
+<div align="center>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpoYWd5eXo0Z2o2Zm52ejhlMnp4NjZtNDZ2d3VuNTM0eGxod2N0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ieyl9zmCjO4b4t6qoY/giphy.gif" />
+</div>
+
 
 
