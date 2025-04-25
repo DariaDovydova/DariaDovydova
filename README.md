@@ -1,6 +1,25 @@
 <h1>Всем привет! <img src="https://media.giphy.com/media/IpM4kYGnxqmE02P9rr/giphy.gif" width="105px" /></h1>
 <h2>Меня зовут Дарья и я Manual QA Engineer 👩‍💻🐞</h2>
 
+---
+
+<h2>Портфолио</h2>
+<h4>Тестовая документация</h4>
+<ul>
+  <li><a href="https://github.com/DariaDovydova/checklists">Чек-листы</a></li>
+  <li><a href="https://github.com/DariaDovydova/test-cases">Тест-кейсы</a></li>
+  <li><a href="https://github.com/DariaDovydova/Bug-reports">Баг-репорты</a></li>
+  <li><a href="https://github.com/DariaDovydova/Mind-map">Mind Map</a></li>
+  <li><a href="https://github.com/DariaDovydova/State-transition">State Transition</a></li>
+</ul>
+
+---
+
+
+<h2>✨✨✨ А здесь можете ознакомиться с моим портфолио по фронтенд-разработке ✨✨✨</h2>
+<p>👉 <a href="https://dovydova-daria.glitch.me">ссылка на мой сайт- портфолио</a></p>
+
+---
 
 <h2>Инструменты и технологии</h2>
 <div id="badges">
@@ -14,22 +33,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </div>
-
----
-
-<h2>Портфолио</h2>
-<h4>Тестовая документация</h4>
-<ul>
-  <li><a href="#">Чек-листы</a></li>
-  <li><a href="#">Тест-кейсы</a></li>
-  <li><a href="#">Mind Map</a></li>
-  <li><a href="#">Баг-репорты</a></li>
-</ul>
-
----
-
-
-<a href="https://dovydova-daria.glitch.me" target="_blank">✨✨✨ А здесь можете ознакомиться с моим портфолио по фронтенд-разработке ✨✨✨</a>
 
 
 
